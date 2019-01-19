@@ -15,7 +15,6 @@
 
 ### 静态文件
 
-访问``` 127.0.0.1:8080/static/ ```
 ![image](http://wx4.sinaimg.cn/mw690/932e8e0cgy1fzc3yltv3lj208r03w3yb.jpg)
 
 ### js访问
